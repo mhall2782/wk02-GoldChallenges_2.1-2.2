@@ -6,3 +6,19 @@
 */
 
 //NOTE: Write your code below and push back to your github branch.  SUBMIT YOUR GITHUB URL IN CANVAS
+
+async function fetchQuote() {
+    const response = await fetch(https://swapi.dev/api/people/1/);
+     console.log(response)
+     const json = await response.json();
+     console.log('Await', json);
+    displayQuote(json);
+}
+let displayQuote = data => {
+    console.log();
+
+    async function fetchAsync () {
+        let response = await fetch('https://swapi.dev/api/people/1/');
+        let data = await response.json();
+        return data;
+      }

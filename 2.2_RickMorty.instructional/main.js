@@ -18,3 +18,13 @@
 */
 
 //NOTE: Write your code below and push back to your github branch.  SUBMIT YOUR GITHUB URL IN CANVAS
+
+
+'
+{
+    "name": "Rick Sanchez","status":"Alive","species":"Human","type":"","gender":"Male","origin":{"name":"Earth 
+    "homeworld": "http://swapi.dev/api/planets/1/", 
+    
+    "name":"Alexander","status":"Dead","species":"Human","type":"","gender":"Male","origin":{"name":"Earth (C-137)"
+}
+ 
